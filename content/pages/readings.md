@@ -16,11 +16,11 @@ Background Readings: From The Engineering of Trees (2003)
 
 Students interested in the topics of trees, plants and musical instruments may consult the following readings:
 
-Engineering of Trees: Handout 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/handout1))
+Engineering of Trees: Handout 1 ([PDF]({{< baseurl >}}/resources/handout1))
 
-Engineering of Trees: Handout 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/handout2))
+Engineering of Trees: Handout 2 ([PDF]({{< baseurl >}}/resources/handout2))
 
-Engineering of Trees: Handout 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/handout3))
+Engineering of Trees: Handout 3 ([PDF]({{< baseurl >}}/resources/handout3))
 
 Easterling, K. E., R. Harrysson, L. J. Gibson, and M. F. Ashby, F. R. S. "On the Mechanics of Balsa and Other Woods." _Proceedings of the Royal Society London_ A383 (1982): 31-41.
 
